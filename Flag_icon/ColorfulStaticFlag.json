@@ -1,0 +1,1054 @@
+{
+    "name": "彩色静态旗帜",
+    "description": "By 可莉🅥",
+    "icons": [
+        {
+        "name": "AD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AD.png"
+        },
+        {
+            "name": "AE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AE.png"
+        },
+        {
+            "name": "AF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AF.png"
+        },
+        {
+            "name": "AG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AG.png"
+        },
+        {
+            "name": "AI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AI.png"
+        },
+        {
+            "name": "AL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AL.png"
+        },
+        {
+            "name": "AM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AM.png"
+        },
+        {
+            "name": "AN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AN.png"
+        },
+        {
+            "name": "AO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AO.png"
+        },
+        {
+            "name": "AR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AR.png"
+        },
+        {
+            "name": "AS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AS.png"
+        },
+        {
+            "name": "AT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AT.png"
+        },
+        {
+            "name": "AU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AU.png"
+        },
+        {
+            "name": "AW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AW.png"
+        },
+        {
+            "name": "AX",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AX.png"
+        },
+        {
+            "name": "AZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/AZ.png"
+        },
+        {
+            "name": "BA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BA.png"
+        },
+        {
+            "name": "BB",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BB.png"
+        },
+        {
+            "name": "BD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BD.png"
+        },
+        {
+            "name": "BE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BE.png"
+        },
+        {
+            "name": "BF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BF.png"
+        },
+        {
+            "name": "BG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BG.png"
+        },
+        {
+            "name": "BH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BH.png"
+        },
+        {
+            "name": "BI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BI.png"
+        },
+        {
+            "name": "BJ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BJ.png"
+        },
+        {
+            "name": "BL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BL.png"
+        },
+        {
+            "name": "BM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BM.png"
+        },
+        {
+            "name": "BN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BN.png"
+        },
+        {
+            "name": "BO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BO.png"
+        },
+        {
+            "name": "BR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BR.png"
+        },
+        {
+            "name": "BS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BS.png"
+        },
+        {
+            "name": "BT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BT.png"
+        },
+        {
+            "name": "BV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BV.png"
+        },
+        {
+            "name": "BW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BW.png"
+        },
+        {
+            "name": "BY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BY.png"
+        },
+        {
+            "name": "BZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/BZ.png"
+        },
+        {
+            "name": "CA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CA.png"
+        },
+        {
+            "name": "CAF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CAF.png"
+        },
+        {
+            "name": "CAS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CAS.png"
+        },
+        {
+            "name": "CC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CC.png"
+        },
+        {
+            "name": "CD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CD.png"
+        },
+        {
+            "name": "CEU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CEU.png"
+        },
+        {
+            "name": "CF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CF.png"
+        },
+        {
+            "name": "CG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CG.png"
+        },
+        {
+            "name": "CH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CH.png"
+        },
+        {
+            "name": "CI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CI.png"
+        },
+        {
+            "name": "CK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CK.png"
+        },
+        {
+            "name": "CL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CL.png"
+        },
+        {
+            "name": "CM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CM.png"
+        },
+        {
+            "name": "CN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CN.png"
+        },
+        {
+            "name": "CNA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CNA.png"
+        },
+        {
+            "name": "CO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CO.png"
+        },
+        {
+            "name": "COC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/COC.png"
+        },
+        {
+            "name": "CR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CR.png"
+        },
+        {
+            "name": "CSA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CSA.png"
+        },
+        {
+            "name": "CU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CU.png"
+        },
+        {
+            "name": "CV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CV.png"
+        },
+        {
+            "name": "CW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CW.png"
+        },
+        {
+            "name": "CX",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CX.png"
+        },
+        {
+            "name": "CY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CY.png"
+        },
+        {
+            "name": "CZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/CZ.png"
+        },
+        {
+            "name": "DE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DE.png"
+        },
+        {
+            "name": "DJ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DJ.png"
+        },
+        {
+            "name": "DK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DK.png"
+        },
+        {
+            "name": "DM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DM.png"
+        },
+        {
+            "name": "DO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DO.png"
+        },
+        {
+            "name": "DZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/DZ.png"
+        },
+        {
+            "name": "EC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/EC.png"
+        },
+        {
+            "name": "EE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/EE.png"
+        },
+        {
+            "name": "EG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/EG.png"
+        },
+        {
+            "name": "EH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/EH.png"
+        },
+        {
+            "name": "ER",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ER.png"
+        },
+        {
+            "name": "ES",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ES.png"
+        },
+        {
+            "name": "ET",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ET.png"
+        },
+        {
+            "name": "EU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/EU.png"
+        },
+        {
+            "name": "FI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FI.png"
+        },
+        {
+            "name": "FJ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FJ.png"
+        },
+        {
+            "name": "FK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FK.png"
+        },
+        {
+            "name": "FM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FM.png"
+        },
+        {
+            "name": "FO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FO.png"
+        },
+        {
+            "name": "FR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/FR.png"
+        },
+        {
+            "name": "GA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GA.png"
+        },
+        {
+            "name": "GB",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB.png"
+        },
+        {
+            "name": "GB-ENG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB-ENG.png"
+        },
+        {
+            "name": "GB-NIR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB-NIR.png"
+        },
+        {
+            "name": "GB-SCT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB-SCT.png"
+        },
+        {
+            "name": "GB-WLS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB-WLS.png"
+        },
+        {
+            "name": "GB-ZET",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GB-ZET.png"
+        },
+        {
+            "name": "GD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GD.png"
+        },
+        {
+            "name": "GE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GE.png"
+        },
+        {
+            "name": "GF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GF.png"
+        },
+        {
+            "name": "GG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GG.png"
+        },
+        {
+            "name": "GH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GH.png"
+        },
+        {
+            "name": "GI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GI.png"
+        },
+        {
+            "name": "GL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GL.png"
+        },
+        {
+            "name": "GM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GM.png"
+        },
+        {
+            "name": "GN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GN.png"
+        },
+        {
+            "name": "GP",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GP.png"
+        },
+        {
+            "name": "GQ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GQ.png"
+        },
+        {
+            "name": "GR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GR.png"
+        },
+        {
+            "name": "GS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GS.png"
+        },
+        {
+            "name": "GT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GT.png"
+        },
+        {
+            "name": "GU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GU.png"
+        },
+        {
+            "name": "GW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GW.png"
+        },
+        {
+            "name": "GY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/GY.png"
+        },
+        {
+            "name": "HK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HK.png"
+        },
+        {
+            "name": "HM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HM.png"
+        },
+        {
+            "name": "HN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HN.png"
+        },
+        {
+            "name": "HR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HR.png"
+        },
+        {
+            "name": "HT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HT.png"
+        },
+        {
+            "name": "HU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/HU.png"
+        },
+        {
+            "name": "ID",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ID.png"
+        },
+        {
+            "name": "IE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IE.png"
+        },
+        {
+            "name": "IL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IL.png"
+        },
+        {
+            "name": "IM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IM.png"
+        },
+        {
+            "name": "IN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IN.png"
+        },
+        {
+            "name": "IO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IO.png"
+        },
+        {
+            "name": "IQ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IQ.png"
+        },
+        {
+            "name": "IR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IR.png"
+        },
+        {
+            "name": "IS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IS.png"
+        },
+        {
+            "name": "IT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/IT.png"
+        },
+        {
+            "name": "JE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/JE.png"
+        },
+        {
+            "name": "JM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/JM.png"
+        },
+        {
+            "name": "JO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/JO.png"
+        },
+        {
+            "name": "JP",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/JP.png"
+        },
+        {
+            "name": "KE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KE.png"
+        },
+        {
+            "name": "KG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KG.png"
+        },
+        {
+            "name": "KH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KH.png"
+        },
+        {
+            "name": "KI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KI.png"
+        },
+        {
+            "name": "KM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KM.png"
+        },
+        {
+            "name": "KN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KN.png"
+        },
+        {
+            "name": "KP",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KP.png"
+        },
+        {
+            "name": "KR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KR.png"
+        },
+        {
+            "name": "KW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KW.png"
+        },
+        {
+            "name": "KY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KY.png"
+        },
+        {
+            "name": "KZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/KZ.png"
+        },
+        {
+            "name": "LA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LA.png"
+        },
+        {
+            "name": "LB",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LB.png"
+        },
+        {
+            "name": "LC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LC.png"
+        },
+        {
+            "name": "LGBT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LGBT.png"
+        },
+        {
+            "name": "LI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LI.png"
+        },
+        {
+            "name": "LK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LK.png"
+        },
+        {
+            "name": "LR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LR.png"
+        },
+        {
+            "name": "LS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LS.png"
+        },
+        {
+            "name": "LT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LT.png"
+        },
+        {
+            "name": "LU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LU.png"
+        },
+        {
+            "name": "LV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LV.png"
+        },
+        {
+            "name": "LY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/LY.png"
+        },
+        {
+            "name": "MA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MA.png"
+        },
+        {
+            "name": "MC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MC.png"
+        },
+        {
+            "name": "MD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MD.png"
+        },
+        {
+            "name": "ME",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ME.png"
+        },
+        {
+            "name": "MF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MF.png"
+        },
+        {
+            "name": "MG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MG.png"
+        },
+        {
+            "name": "MH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MH.png"
+        },
+        {
+            "name": "MK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MK.png"
+        },
+        {
+            "name": "ML",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ML.png"
+        },
+        {
+            "name": "MM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MM.png"
+        },
+        {
+            "name": "MN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MN.png"
+        },
+        {
+            "name": "MO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MO.png"
+        },
+        {
+            "name": "MP",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MP.png"
+        },
+        {
+            "name": "MQ_2",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MQ_2.png"
+        },
+        {
+            "name": "MR_2",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MR_2.png"
+        },
+        {
+            "name": "MS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MS.png"
+        },
+        {
+            "name": "MT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MT.png"
+        },
+        {
+            "name": "MU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MU.png"
+        },
+        {
+            "name": "MV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MV.png"
+        },
+        {
+            "name": "MW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MW.png"
+        },
+        {
+            "name": "MX",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MX.png"
+        },
+        {
+            "name": "MY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MY.png"
+        },
+        {
+            "name": "MZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/MZ.png"
+        },
+        {
+            "name": "NA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NA.png"
+        },
+        {
+            "name": "NC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NC.png"
+        },
+        {
+            "name": "NE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NE.png"
+        },
+        {
+            "name": "NF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NF.png"
+        },
+        {
+            "name": "NG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NG.png"
+        },
+        {
+            "name": "NI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NI.png"
+        },
+        {
+            "name": "NL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NL.png"
+        },
+        {
+            "name": "NO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NO.png"
+        },
+        {
+            "name": "NP",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NP.png"
+        },
+        {
+            "name": "NR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NR.png"
+        },
+        {
+            "name": "NU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NU.png"
+        },
+        {
+            "name": "NZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/NZ.png"
+        },
+        {
+            "name": "OM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/OM.png"
+        },
+        {
+            "name": "PA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PA.png"
+        },
+        {
+            "name": "PE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PE.png"
+        },
+        {
+            "name": "PF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PF.png"
+        },
+        {
+            "name": "PG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PG.png"
+        },
+        {
+            "name": "PH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PH.png"
+        },
+        {
+            "name": "PK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PK.png"
+        },
+        {
+            "name": "PL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PL.png"
+        },
+        {
+            "name": "PM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PM.png"
+        },
+        {
+            "name": "PN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PN.png"
+        },
+        {
+            "name": "PR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PR.png"
+        },
+        {
+            "name": "PS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PS.png"
+        },
+        {
+            "name": "PT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PT.png"
+        },
+        {
+            "name": "PW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PW.png"
+        },
+        {
+            "name": "PY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/PY.png"
+        },
+        {
+            "name": "QA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/QA.png"
+        },
+        {
+            "name": "RE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/RE.png"
+        },
+        {
+            "name": "RO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/RO.png"
+        },
+        {
+            "name": "RS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/RS.png"
+        },
+        {
+            "name": "RU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/RU.png"
+        },
+        {
+            "name": "RW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/RW.png"
+        },
+        {
+            "name": "SA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SA.png"
+        },
+        {
+            "name": "SB",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SB.png"
+        },
+        {
+            "name": "SC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SC.png"
+        },
+        {
+            "name": "SD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SD.png"
+        },
+        {
+            "name": "SE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SE.png"
+        },
+        {
+            "name": "SG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SG.png"
+        },
+        {
+            "name": "SH_2",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SH_2.png"
+        },
+        {
+            "name": "SI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SI.png"
+        },
+        {
+            "name": "SJ_2",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SJ_2.png"
+        },
+        {
+            "name": "SK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SK.png"
+        },
+        {
+            "name": "SL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SL.png"
+        },
+        {
+            "name": "SM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SM.png"
+        },
+        {
+            "name": "SN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SN.png"
+        },
+        {
+            "name": "SO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SO.png"
+        },
+        {
+            "name": "SR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SR.png"
+        },
+        {
+            "name": "SS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SS.png"
+        },
+        {
+            "name": "ST",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ST.png"
+        },
+        {
+            "name": "SV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SV.png"
+        },
+        {
+            "name": "SX",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SX.png"
+        },
+        {
+            "name": "SY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SY.png"
+        },
+        {
+            "name": "SZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/SZ.png"
+        },
+        {
+            "name": "TC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TC.png"
+        },
+        {
+            "name": "TD",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TD.png"
+        },
+        {
+            "name": "TG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TG.png"
+        },
+        {
+            "name": "TH",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TH.png"
+        },
+        {
+            "name": "TJ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TJ.png"
+        },
+        {
+            "name": "TK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TK.png"
+        },
+        {
+            "name": "TL",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TL.png"
+        },
+        {
+            "name": "TM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TM.png"
+        },
+        {
+            "name": "TN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TN.png"
+        },
+        {
+            "name": "TO",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TO.png"
+        },
+        {
+            "name": "TR",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TR.png"
+        },
+        {
+            "name": "TT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TT.png"
+        },
+        {
+            "name": "TV",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TV.png"
+        },
+        {
+            "name": "TZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/TZ.png"
+        },
+        {
+            "name": "UA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/UA.png"
+        },
+        {
+            "name": "UG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/UG.png"
+        },
+        {
+            "name": "UM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/UM.png"
+        },
+        {
+            "name": "US",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/US.png"
+        },
+        {
+            "name": "US-CA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/US-CA.png"
+        },
+        {
+            "name": "UY",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/UY.png"
+        },
+        {
+            "name": "UZ",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/UZ.png"
+        },
+        {
+            "name": "VA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VA.png"
+        },
+        {
+            "name": "VC",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VC.png"
+        },
+        {
+            "name": "VE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VE.png"
+        },
+        {
+            "name": "VG",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VG.png"
+        },
+        {
+            "name": "VI",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VI.png"
+        },
+        {
+            "name": "VN",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VN.png"
+        },
+        {
+            "name": "VU",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/VU.png"
+        },
+        {
+            "name": "WF",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/WF.png"
+        },
+        {
+            "name": "WS",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/WS.png"
+        },
+        {
+            "name": "WW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/WW.png"
+        },
+        {
+            "name": "XK",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/XK.png"
+        },
+        {
+            "name": "YE",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/YE.png"
+        },
+        {
+            "name": "YT",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/YT.png"
+        },
+        {
+            "name": "ZA",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ZA.png"
+        },
+        {
+            "name": "ZM",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ZM.png"
+        },
+        {
+            "name": "ZW",
+            "url": "https://raw.githubusercontent.com/luestr/IconResource/main/Flag_icon/120px/ZW.png"
+        }
+    ]
+}
